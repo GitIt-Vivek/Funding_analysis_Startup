@@ -64,13 +64,13 @@ The notebook performs several preprocessing steps:
 
 ## 🛠 Technologies Used
 
-- Python 3.x  
+- Python 3.13
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Plotly *(optional)*  
-- Jupyter Notebook  
+- Plotly
+- Visual Studio Code
 
 ---
 
@@ -78,8 +78,8 @@ The notebook performs several preprocessing steps:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/GitIt-Vivek/Funding_analysis_Startup.git
+cd Funding_analysis_Startup
 ```
 ### 2️⃣ Install Dependencies
 ```bash
